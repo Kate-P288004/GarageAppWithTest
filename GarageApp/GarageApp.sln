@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarageApp", "GarageApp.csproj", "{95993A9B-C757-4BCC-B2BB-9955F9FC847A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarageApp.Tests", "..\GarageApp.Tests\GarageApp.Tests.csproj", "{92666E28-6C24-4453-9317-6849C6F0B2D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95993A9B-C757-4BCC-B2BB-9955F9FC847A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95993A9B-C757-4BCC-B2BB-9955F9FC847A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95993A9B-C757-4BCC-B2BB-9955F9FC847A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95993A9B-C757-4BCC-B2BB-9955F9FC847A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92666E28-6C24-4453-9317-6849C6F0B2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92666E28-6C24-4453-9317-6849C6F0B2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92666E28-6C24-4453-9317-6849C6F0B2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92666E28-6C24-4453-9317-6849C6F0B2D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57D5BED1-4999-4810-9868-956C64997451}
+	EndGlobalSection
+EndGlobal
